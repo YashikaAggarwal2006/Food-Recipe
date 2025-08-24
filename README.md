@@ -1,12 +1,27 @@
-# React + Vite
+**FOOD RECIPE APPLICATION**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Food Recipe Web Application using React.js that allows users to explore meals using the TheMealDB API. The application have interactive recipe details.Users can search for meals, filter them alphabetically, and even discover a random recipe.
 
-Currently, two official plugins are available:
+**Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.Browse by Alphabet → Click a letter to fetch meals starting with that letter.
+2.Search Meals → Type in a dish name to search recipes.
+3.Surprise Me! → Get a random meal instantly.
+4.View Meal Details → See instructions and images of selected meals.
+5.Responsive UI → Works smoothly on desktop and mobile.
 
-## Expanding the ESLint configuration
+**Tech Stack**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1.React → For UI development.
+2.JavaScript → Main programming language.
+3.Vite → Fast build tool for React.
+4.TheMealDB API → Free API for recipe data.
+
+**Installation**
+
+npm install
+npm run dev
+Open in browser
+
+
+Developed by Yashika Aggarwal
