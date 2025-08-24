@@ -4,23 +4,23 @@ A Food Recipe Web Application using React.js that allows users to explore meals 
 
 **Features**
 
-1.Browse by Alphabet → Click a letter to fetch meals starting with that letter.
-2.Search Meals → Type in a dish name to search recipes.
-3.Surprise Me! → Get a random meal instantly.
-4.View Meal Details → See instructions and images of selected meals.
+1.Browse by Alphabet → Click a letter to fetch meals starting with that letter.  
+2.Search Meals → Type in a dish name to search recipes.  
+3.Surprise Me! → Get a random meal instantly.  
+4.View Meal Details → See instructions and images of selected meals.  
 5.Responsive UI → Works smoothly on desktop and mobile.
 
 **Tech Stack**
 
-1.React → For UI development.
-2.JavaScript → Main programming language.
-3.Vite → Fast build tool for React.
-4.TheMealDB API → Free API for recipe data.
+1.React → For UI development.  
+2.JavaScript → Main programming language.  
+3.Vite → Fast build tool for React.  
+4.TheMealDB API → Free API for recipe data.  
 
 **Installation**
 
-1.npm install
-2.npm run dev
+1.npm install  
+2.npm run dev  
 3.Open in browser
 
 
