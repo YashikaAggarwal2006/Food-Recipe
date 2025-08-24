@@ -19,9 +19,9 @@ A Food Recipe Web Application using React.js that allows users to explore meals 
 
 **Installation**
 
-npm install
-npm run dev
-Open in browser
+1.npm install
+2.npm run dev
+3.Open in browser
 
 
 Developed by Yashika Aggarwal
